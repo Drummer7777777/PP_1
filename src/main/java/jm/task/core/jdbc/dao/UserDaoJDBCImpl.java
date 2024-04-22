@@ -1,7 +1,7 @@
-package main.java.jm.task.core.jdbc.dao;
+package jm.task.core.jdbc.dao;
 
-import main.java.jm.task.core.jdbc.model.User;
-import main.java.jm.task.core.jdbc.util.Util;
+import jm.task.core.jdbc.model.User;
+import jm.task.core.jdbc.util.Util;
 
 import java.sql.*;
 import java.util.ArrayList;
